@@ -1,0 +1,10 @@
+AG PROPANE CRM — HOME SCREEN SETUP
+
+1. Host these files at an HTTPS web address.
+2. Open that address in Safari on your iPhone.
+3. Tap Share.
+4. Tap Add to Home Screen.
+5. Leave Open as Web App turned on.
+6. Name it AG Propane CRM and tap Add.
+
+The CRM uses local browser storage for live data. It is not a cloud database.
